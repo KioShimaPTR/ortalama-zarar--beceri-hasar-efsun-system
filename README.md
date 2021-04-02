@@ -1,0 +1,1 @@
+# ortalama-zarar--beceri-hasar-efsun-system
