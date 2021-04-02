@@ -1,0 +1,2 @@
+71052	Ortalama Zarar Nesnesi	Silahlarýnýza rastgele 45-60 arasý ortalama zarar ekler. Yan efsun mevcutsa deðiþir.
+71053	Beceri Hasar Nesnesi	Silahlarýnýza rastgele 18-28 arasý beceri hasar ekler. Yan efsun mevcutsa deðiþir.

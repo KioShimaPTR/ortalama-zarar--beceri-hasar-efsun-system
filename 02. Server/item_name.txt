@@ -1,0 +1,2 @@
+71052	Ortalama Zarar Nesnesi
+71053	Beceri Hasar Nesnesi
